@@ -1,0 +1,42 @@
+	body #button-25 {
+		background-color:red;
+		border-radius: 3em ;
+		padding:1em;
+		position:relative;
+	}
+		body #timer a#button-25:hover {
+ 			background-color:yellow; }
+	body #button-5-break {
+		width: 42px;
+		height: 42px;
+		top: 30px;
+		left: 100px;
+		padding:1em;
+		border-radius:3em;
+		background-color:blue;
+		position:relative;
+		top:100px;
+		}
+		body #timer a#button-5-break:hover {
+		background-color:blue; }
+	body #line1, #line2 {
+		width:4;
+		border: 1px solid black;
+		width:50px;
+		position:relative;
+		-moz-transform-origin: left bottom;
+	}
+	body #line1, #line2 {
+		
+		width:4;
+		border: 1px solid black;
+		width:50px;
+		position:relative;
+		-moz-transform-origin: left bottom;
+	}
+	body #lines {
+		top:0;
+		left:0;
+		position:relative;
+		-moz-transform-origin: left bottom;
+	}
